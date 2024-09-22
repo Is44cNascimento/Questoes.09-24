@@ -1,0 +1,5 @@
+Fazer um programa em Java para ajudar a bilheteria do metrô. O usuário deve informar o tipo do bilhete
+(unitário, duplo ou 10 viagens) e
+ o valor pago pelo passageiro. O sistema deve mostrar, então, a
+ quantidade de bilhetes possíveis e o troco que o passageiro deve receber.
+Considere a seguinte tabela de preço:
