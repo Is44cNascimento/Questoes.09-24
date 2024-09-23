@@ -1,4 +1,4 @@
-package  Aula.Questao9;
+ package  Aula.Questao9;
 /* credito especial, criado por Isaac Nascimento de Jesus*/
 
 import java.util.*;
@@ -44,5 +44,7 @@ public class Questao9 {
                     }
             }
         }
-    }
+ 
+    sc,close();
+   }
 }
