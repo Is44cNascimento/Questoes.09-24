@@ -23,7 +23,8 @@ public class Questao9 {
             System.out.println("Digite o seu saldo medio, com todos os numeros (Exemplo: 123,45/120,00): ");
             saldoM = sc.nextDouble();
         }
-
+        
+        sc.close();
 
         double VC, TC, QC;
         {
@@ -45,6 +46,6 @@ public class Questao9 {
             }
         }
  
-    sc,close();
+    
    }
 }
